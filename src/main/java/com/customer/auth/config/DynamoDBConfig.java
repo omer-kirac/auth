@@ -13,7 +13,7 @@ import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
 @Configuration
 @EnableDynamoDBRepositories
         (basePackages = "com.customer.auth.repository")
-public class DynomoDBConfig {
+public class DynamoDBConfig {
 
 
 
